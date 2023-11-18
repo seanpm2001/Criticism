@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+⚠️🗃️⚠️ A database and documentation repository for constructive criticism of @seanpm2001 to document, learn, and improve.
